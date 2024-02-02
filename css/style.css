@@ -434,7 +434,7 @@ footer {
     width: 100%;
   }
 
-  .nav-link a:hover {
+  .nav-link a:active, .nav-link a:hover {
     padding-bottom: 15px;
     border-bottom: 1px solid var(--blue);
     color: var(--blue);
