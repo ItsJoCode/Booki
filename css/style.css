@@ -239,10 +239,6 @@ nav {
   color: var(--gray);
 }
 
-.text-hebergement {
-  font-weight: bold;
-}
-
 .famous {
   flex: 1;
   background-color: var(--gray);
